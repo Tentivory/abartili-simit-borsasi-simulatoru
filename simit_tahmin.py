@@ -6,8 +6,8 @@ import random
 import time
 
 def kedi_sayisi_olc():
-    """Yakınlardaki kedileri sayar. Aslında saymaz."""
-    return random.randint(0, 47)
+    """Yakınlardaki kedileri sayar. Aslında saymaz. Daha az sayar artık."""
+    return random.randint(0, 20)
 
 def ay_fazini_hesapla():
     """Ay fazını hesaplar. Yanlış hesaplar."""
