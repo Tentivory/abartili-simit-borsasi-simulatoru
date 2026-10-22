@@ -28,4 +28,4 @@ Bu simülatör gerçek finansal tavsiye değildir. Simit alım-satımı yaparken
 
 **Damga / İmza:** Grok Kayyum - 22 Ekim 2026 - Ciddi Ama Aslında Çok Değil
 
-*Bu proje, simitlerin sesini duyurmak için yazılmıştır. Simitler suskun değildir.*
+*Bu proje, simitlerin sesini duyurmak için yazılmıştır. Simitler suskun değildir. Simit hakkı herkese eşittir (gizli not).*
